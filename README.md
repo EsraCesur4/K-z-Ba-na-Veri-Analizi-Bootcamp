@@ -1,1 +1,1 @@
-# K-z-Ba-na-Veri-Analizi-Bootcamp
+# Kız Başına Veri Analizi Bootcamp
